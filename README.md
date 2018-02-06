@@ -420,6 +420,8 @@ phone numbers.
 * [django-q](https://github.com/Koed00/django-q) - A native multiprocessing task queue for Django.
 * [django-rq](https://github.com/ui/django-rq) - The easiest way to monitor and use [RQ](http://python-rq.org) in your Django projects.
 * [huey](https://github.com/coleifer/huey/) - A little multi-threaded task queue for python.
+* [django-carrot](http://django-carrot.readthedocs.io/) - The lightweight task queue for Django
+
 
 ## Testing
 
